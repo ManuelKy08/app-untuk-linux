@@ -31,7 +31,7 @@ syarat:
 3. Tekan CTRL + X untuk keluar
 
 ## masukkan script ini ig
-<prev>
+<pre>
 [Desktop Entry]
 Name=Instagram Web
 Exec=/home/rrsec/AppBuilds/InstagramWeb-linux-x64/InstagramWeb --no-sandbox
@@ -40,10 +40,10 @@ Type=Application
 Categories=Network;Social;
 StartupNotify=true
 Terminal=false
-</prev>
+</pre>
 
 ## masukkan script ini x
-<prev>
+<pre>
 [Desktop Entry]
 Name=X Web
 Comment=Twitter Web Desktop by Mr.Kokok
@@ -52,10 +52,10 @@ Icon=twitter
 Terminal=false
 Type=Application
 Categories=Network;SocialNetworking;
-</prev>
+</pre>
 
 ## masukkan script ini fb
-<prev>
+<pre>
 [Desktop Entry]
 Name=Facebook Web
 Exec=/home/rrsec/AppBuilds/facebook-app/FacebookWeb-linux-x64/FacebookWeb --no-sandbox
@@ -64,10 +64,10 @@ Terminal=false
 Type=Application
 Categories=Network;Social;
 StartupNotify=true
-</prev>
+</pre>
 
 ## masukkan script ini tiktok
-<prev>
+<pre>
 [Desktop Entry]
 Name=TikTok Web
 Comment=Aplikasi TikTok berbasis web
@@ -77,9 +77,9 @@ Terminal=false
 Type=Application
 Categories=Network;Video;
 StartupNotify=true
-</prev>
+</pre>
 
-<prev>
+<pre>
 ## masukkan script ini wa
 [Desktop Entry]
 Name=WhatsApp Web
@@ -90,7 +90,7 @@ Terminal=false
 Type=Application
 Categories=Network;InstantMessaging;
 StartupNotify=true
-</prev>
+</pre>
 
 # Note
 1. Ganti /home/rrsec/... sesuai rename linux kalian
@@ -98,6 +98,6 @@ StartupNotify=true
 3. ctrl + shift v (untuk paste), lalu ctrl + x untuk keluar dan tekan y dan enter (untuk kombinasi keluar dan save)
 
 ## terakhir refresh cache agar ada di tampilan dekstop 
-<prev>
+<pre>
 update-desktop-database ~/.local/share/applications/
-</prev>
+</pre>
