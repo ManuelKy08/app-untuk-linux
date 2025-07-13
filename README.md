@@ -25,7 +25,7 @@ syarat:
 2. sudo dpkg --configure -a
 
 
-## Langkah unruk ngebuat launcher di dekstop linux kalian
+## Langkah untuk ngebuat launcher di dekstop linux kalian
 1. nano ~/.local/share/applications/instagram-web.desktop
 2. Tekan CTRL + O, lalu ENTER untuk simpan
 3. Tekan CTRL + X untuk keluar
@@ -79,8 +79,8 @@ Categories=Network;Video;
 StartupNotify=true
 </pre>
 
-<pre>
 ## masukkan script ini wa
+<pre>
 [Desktop Entry]
 Name=WhatsApp Web
 Comment=Aplikasi WhatsApp berbasis web
